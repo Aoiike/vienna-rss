@@ -2,15 +2,14 @@
   "images" : [
     {
       "idiom" : "mac",
-      "filename" : "ViSync.pdf",
+      "filename" : "ViUpdate.pdf",
       "language-direction" : "left-to-right",
       "scale" : "1x"
     },
     {
       "idiom" : "mac",
-      "filename" : "ViSync@2x.pdf",
-      "language-direction" : "left-to-right",
-      "scale" : "2x"
+      "scale" : "2x",
+      "language-direction" : "left-to-right"
     }
   ],
   "info" : {
